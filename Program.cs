@@ -13,8 +13,9 @@ namespace Temp99
             Console.WriteLine("삭제가 될 겁니다.");
             Console.WriteLine("아..");
             Console.WriteLine("아...");
-            Console.WriteLine("아....");
+            //Console.WriteLine("아...."); 버그발견 삭제 대기중
             Console.WriteLine("ㅋㅋ");
+
         }
     }
 }
