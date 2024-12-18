@@ -15,6 +15,7 @@ namespace Temp99
             Console.WriteLine("아...");
             Console.WriteLine("아....");
             Console.WriteLine("ㅋㅋ");
+            Console.WriteLine("??");
         }
     }
 }
