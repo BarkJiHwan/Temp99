@@ -16,6 +16,8 @@ namespace Temp99
             Console.WriteLine("아....");
             Console.WriteLine("ㅋㅋ");
             Console.WriteLine("??");
+            Console.WriteLine("기능 개발중...");
+            Console.WriteLine("사실 기능 빼는중.....");
         }
     }
 }
