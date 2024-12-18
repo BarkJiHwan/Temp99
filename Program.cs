@@ -10,7 +10,11 @@ namespace Temp99
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("삭제가 될 겁니다.");
+            Console.WriteLine("아..");
+            Console.WriteLine("아...");
+            Console.WriteLine("아....");
+            Console.WriteLine("ㅋㅋ");
         }
     }
 }
